@@ -1,5 +1,6 @@
 import React from "react";
 interface Props {
+  /** This is my favorite prop background */
   backgroundColor?: string;
   color: string;
 }
